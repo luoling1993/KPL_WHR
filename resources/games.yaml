@@ -1,0 +1,451 @@
+- date: 2018-09-12
+  player: HERO-TS
+  result: 2-3
+
+- date: 2018-09-12
+  player: QGHAPPY-ESTARPRO
+  result: 3-0
+
+- date: 2018-09-13
+  player: RNGM-EDGM
+  result: 1-3
+
+- date: 2018-09-13
+  player: JC-TS
+  result: 3-2
+
+- date: 2018-09-13
+  player: GK-BA
+  result: 0-3
+
+- date: 2018-09-14
+  player: EDGM-WE
+  result: 3-0
+
+- date: 2018-09-14
+  player: QGHAPPY-RNGM
+  result: 2-3
+
+- date: 2018-09-14
+  player: YTG-TOPM
+  result: 0-3
+
+- date: 2018-09-15
+  player: ESTARPRO-HERO
+  result: 2-3
+
+- date: 2018-09-15
+  player: GK-TOPM
+  result: 1-3
+
+- date: 2018-09-15
+  player: XQ-JC
+  result: 0-3
+
+- date: 2018-09-16
+  player: ESTARPRO-WE
+  result: 0-3
+
+- date: 2018-09-16
+  player: EDGM-TS
+  result: 1-3
+
+- date: 2018-09-16
+  player: XQ-RW
+  result: 0-3
+
+- date: 2018-09-19
+  player: WE-RW
+  result: 3-1
+
+- date: 2018-09-19
+  player: GK-RNGM
+  result: 1-3
+
+- date: 2018-09-19
+  player: BA-EDGM
+  result: 3-0
+
+- date: 2018-09-20
+  player: TOPM-XQ
+  result: 3-0
+
+- date: 2018-09-20
+  player: ESTARPRO-TS
+  result: 3-2
+
+- date: 2018-09-20
+  player: HERO-WE
+  result: 3-0
+
+- date: 2018-09-21
+  player: RW-YTG
+  result: 1-3
+
+- date: 2018-09-21
+  player: JC-EDGM
+  result: 1-3
+
+- date: 2018-09-21
+  player: HERO-QGHAPPY
+  result: 0-3
+
+- date: 2018-09-22
+  player: ESTARPRO-GK
+  result: 3-1
+
+- date: 2018-09-22
+  player: RW-TOPM
+  result: 1-3
+
+- date: 2018-09-22
+  player: WE-TS
+  result: 2-3
+
+- date: 2018-09-23
+  player: TOPM-YTG
+  result: 3-0
+
+- date: 2018-09-23
+  player: XQ-WE
+  result: 0-3
+
+- date: 2018-09-23
+  player: TS-QGHAPPY
+  result: 3-1
+
+- date: 2018-09-26
+  player: RW-JC
+  result: 2-3
+
+- date: 2018-09-26
+  player: ESTARPRO-RNGM
+  result: 2-3
+
+- date: 2018-09-26
+  player: HERO-XQ
+  result: 3-1
+
+- date: 2018-09-27
+  player: TOPM-JC
+  result: 0-3
+
+- date: 2018-09-27
+  player: GK-YTG
+  result: 3-0
+
+- date: 2018-09-27
+  player: TS-BA
+  result: 2-3
+
+- date: 2018-09-28
+  player: RW-HERO
+  result: 1-3
+
+- date: 2018-09-28
+  player: QGHAPPY-WE
+  result: 3-0
+
+- date: 2018-09-28
+  player: QGHAPPY-WE
+  result: 3-0
+
+- date: 2018-09-28
+  player: GK-XQ
+  result: 1-3
+
+- date: 2018-09-29
+  player: QGHAPPY-TOPM
+  result: 3-2
+
+- date: 2018-09-29
+  player: YTG-BA
+  result: 1-3
+
+- date: 2018-09-29
+  player: TS-EDGM
+  result: 3-2
+
+- date: 2018-09-30
+  player: RNGM-TOPM
+  result: 3-2
+
+- date: 2018-09-30
+  player: RW-GK
+  result: 1-3
+
+- date: 2018-09-30
+  player: JC-ESTARPRO
+  result: 3-0
+
+- date: 2018-10-03
+  player: BA-TS
+  result: 3-0
+
+- date: 2018-10-03
+  player: YTG-JC
+  result: 1-3
+
+- date: 2018-10-03
+  player: GK-WE
+  result: 3-1
+
+- date: 2018-10-04
+  player: HERO-YTG
+  result: 2-3
+
+- date: 2018-10-04
+  player: RW-TS
+  result: 3-0
+
+- date: 2018-10-04
+  player: EDGM-XQ
+  result: 1-3
+
+- date: 2018-10-05
+  player: TOPM-BA
+  result: 0-3
+
+- date: 2018-10-05
+  player: HERO-JC
+  result: 0-3
+
+- date: 2018-10-05
+  player: GK-QGHAPPY
+  result: 1-3
+
+- date: 2018-10-06
+  player: BA-RW
+  result: 3-0
+
+- date: 2018-10-06
+  player: ESTARPRO-YTG
+  result: 3-0
+
+- date: 2018-10-06
+  player: JC-RNGM
+  result: 1-3
+
+- date: 2018-10-07
+  player: RW-EDGM
+  result: 3-2
+
+- date: 2018-10-07
+  player: GK-TS
+  result: 0-3
+
+- date: 2018-10-07
+  player: HERO-TOPM
+  result: 3-1
+
+- date: 2018-10-10
+  player: HERO-RNGM
+  result: 1-3
+
+- date: 2018-10-10
+  player: EDGM-JC
+  result: 3-1
+
+- date: 2018-10-10
+  player: QGHAPPY-BA
+  result: 1-3
+
+- date: 2018-10-11
+  player: QGHAPPY-RW
+  result: 0-3
+
+- date: 2018-10-11
+  player: YTG-WE
+  result: 1-3
+
+- date: 2018-10-11
+  player: TS-RNGM
+  result: 0-3
+
+- date: 2018-10-12
+  player: BA-GK
+  result: 3-0
+
+- date: 2018-10-12
+  player: TOPM-EDGM
+  result: 1-3
+
+- date: 2018-10-12
+  player: XQ-YTG
+  result: 2-3
+
+- date: 2018-10-13
+  player: ESTARPRO-RW
+  result: 0-3
+
+- date: 2018-10-13
+  player: WE-RNGM
+  result: 1-3
+
+- date: 2018-10-13
+  player: XQ-TS
+  result: 0-3
+
+- date: 2018-10-14
+  player: TOPM-GK
+  result: 3-0
+
+- date: 2018-10-14
+  player: QGHAPPY-JC
+  result: 3-0
+
+- date: 2018-10-14
+  player: WE-BA
+  result: 0-3
+
+- date: 2018-10-17
+  player: RNGM-RW
+  result: 3-2
+
+- date: 2018-10-17
+  player: TS-ESTARPRO
+  result: 1-3
+
+- date: 2018-10-17
+  player: XQ-EDGM
+  result: 1-3
+
+- date: 2018-10-18
+  player: TOPM-WE
+  result: 1-3
+
+- date: 2018-10-18
+  player: RNGM-HERO
+  result: 3-0
+
+- date: 2018-10-18
+  player: GK-ESTARPRO
+  result: 1-3
+
+- date: 2018-10-19
+  player: YTG-TS
+  result: 2-3
+
+- date: 2018-10-19
+  player: JC-BA
+  result: 1-3
+
+- date: 2018-10-19
+  player: QGHAPPY-HERO
+  result: 0-3
+
+- date: 2018-10-20
+  player: XQ-RNGM
+  result: 1-3
+
+- date: 2018-10-20
+  player: RW-WE
+  result: 3-2
+
+- date: 2018-10-20
+  player: QGHAPPY-EDGM
+  result: 1-3
+
+- date: 2018-10-21
+  player: EDGM-YTG
+  result: 3-2
+
+- date: 2018-10-21
+  player: HERO-GK
+  result: 3-0
+
+- date: 2018-10-21
+  player: XQ-ESTARPRO
+  result: 0-3
+
+- date: 2018-10-24
+  player: TOPM-TS
+  result: 2-3
+
+- date: 2018-10-24
+  player: BA-YTG
+  result: 3-1
+
+- date: 2018-10-24
+  player: WE-QGHAPPY
+  result: 0-3
+
+- date: 2018-10-25
+  player: ESTARPRO-JC
+  result: 3-2
+
+- date: 2018-10-25
+  player: HERO-RW
+  result: 2-3
+
+- date: 2018-10-25
+  player: XQ-QGHAPPY
+  result: 0-3
+
+- date: 2018-10-27
+  player: EDGM-HERO
+  result: 3-2
+
+- date: 2018-10-28
+  player: RNGM-YTG
+  result: 2-3
+
+- date: 2018-10-28
+  player: BA-JC
+  result: 3-1
+
+- date: 2018-10-31
+  player: GK-RW
+  result: 0-3
+
+- date: 2018-10-31
+  player: WE-EDGM
+  result: 0-3
+
+- date: 2018-10-31
+  player: QGHAPPY-TS
+  result: 3-1
+
+- date: 2018-11-01
+  player: RNGM-BA
+  result: 1-3
+
+- date: 2018-11-01
+  player: QGHAPPY-XQ
+  result: 3-0
+
+- date: 2018-11-01
+  player: YTG-ESTARPRO
+  result: 2-3
+
+- date: 2018-11-02
+  player: RNGM-GK
+  result: 3-1
+
+- date: 2018-11-02
+  player: JC-RW
+  result: 3-1
+
+- date: 2018-11-03
+  player: TS-TOPM
+  result: 3-0
+
+- date: 2018-11-03
+  player: QGHAPPY-GK
+  result: 3-1
+
+- date: 2018-11-03
+  player: BA-XQ
+  result: 3-0
+
+- date: 2018-11-04
+  player: ESTARPRO-BA
+  result: 1-3
+
+- date: 2018-11-04
+  player: YTG-RNGM
+  result: 2-3
+
+- date: 2018-11-04
+  player: HERO-EDGM
+  result: 3-2
