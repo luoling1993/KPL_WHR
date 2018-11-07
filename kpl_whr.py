@@ -39,7 +39,7 @@ def get_result(result):
     return black_score, white_score
 
 
-def create_games(whr, games_config, handicap=1):
+def create_games(whr, games_config, handicap=0):
     for game_item in games_config:
         game_date = game_item['date']
 
@@ -74,4 +74,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    print(main())
